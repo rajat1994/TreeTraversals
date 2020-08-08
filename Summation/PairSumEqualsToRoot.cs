@@ -73,7 +73,7 @@ public class Program{
 		}
 
 
-		if (i == 0) {
+		if (i == 1) {
 			if (d.Contains(root.val)){
 				return true;
 			}
